@@ -11,42 +11,42 @@ const data=[
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'Project 1',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Orion UI kit - Charts templates & infographics in Figma',
+    title: 'Project 2',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Eclipse - Figma dashboard UI kit for data design web apps',
+    title: 'Project 3',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
+    title: 'Project 4',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Orion UI kit - Charts templates & infographics in Figma',
+    title: 'Project 5',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Orion UI kit - Charts templates & infographics in Figma',
+    title: 'Project 6',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
