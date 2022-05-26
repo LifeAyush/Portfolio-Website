@@ -26,7 +26,7 @@ const data=[
     image: IMG3,
     title: 'React CRUD Operations',
     github: 'https://github.com/LifeAyush/react-crud-operations',
-    demo: 'https://dribbble.com'
+    demo: 'https://lifeayush.github.io/react-crud-operations/'
   },
   {
     id: 4,
