@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/dummy-portfolio-website/static/css/main.e511e1c3.css",
-    "main.js": "/dummy-portfolio-website/static/js/main.30299284.js",
-    "static/media/me.png": "/dummy-portfolio-website/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/dummy-portfolio-website/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/dummy-portfolio-website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/dummy-portfolio-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/cv.pdf": "/dummy-portfolio-website/static/media/cv.75ccd04236bf235b7ac7.pdf",
-    "static/media/portfolio6.jpg": "/dummy-portfolio-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/dummy-portfolio-website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/dummy-portfolio-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/dummy-portfolio-website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/dummy-portfolio-website/index.html",
-    "main.e511e1c3.css.map": "/dummy-portfolio-website/static/css/main.e511e1c3.css.map",
-    "main.30299284.js.map": "/dummy-portfolio-website/static/js/main.30299284.js.map"
+    "main.css": "/ayushpatil/static/css/main.784770f0.css",
+    "main.js": "/ayushpatil/static/js/main.dbbf736a.js",
+    "static/media/mod.png": "/ayushpatil/static/media/mod.82c088f4c6b64c694dd7.png",
+    "static/media/imgg3.jpg": "/ayushpatil/static/media/imgg3.bfb036062b30664c377b.jpg",
+    "static/media/me44.png": "/ayushpatil/static/media/me44.298c1e3a4f79f6f4fa4f.png",
+    "static/media/cv.pdf": "/ayushpatil/static/media/cv.993fe976caafed21a908.pdf",
+    "static/media/img6.png": "/ayushpatil/static/media/img6.4d431117a5b42e76858c.png",
+    "static/media/img4.png": "/ayushpatil/static/media/img4.d417661179d4d716f000.png",
+    "static/media/img1.jpg": "/ayushpatil/static/media/img1.835677d6a7246ac4a8ed.jpg",
+    "static/media/bg1.png": "/ayushpatil/static/media/bg1.118ea66040aae3432d47.png",
+    "index.html": "/ayushpatil/index.html",
+    "main.784770f0.css.map": "/ayushpatil/static/css/main.784770f0.css.map",
+    "main.dbbf736a.js.map": "/ayushpatil/static/js/main.dbbf736a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e511e1c3.css",
-    "static/js/main.30299284.js"
+    "static/css/main.784770f0.css",
+    "static/js/main.dbbf736a.js"
   ]
 }
