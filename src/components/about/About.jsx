@@ -1,9 +1,8 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/bg1.png";
 import { FaAward } from "react-icons/fa";
-import {FiUsers} from "react-icons/fi"
-import {VscFolderActive} from "react-icons/vsc"
+import { VscFolderActive } from "react-icons/vsc";
 
 const About = () => {
   return (
@@ -15,30 +14,36 @@ const About = () => {
           <img src={ME} alt="About Me" />
         </div>
         <div className="about__content">
-
           <div className="about__cards">
-
             <article className="about__card">
-              <FaAward className="about__icon"/>
+              <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ years working</small>
+              <small>
+                6+ months of working experience in various college groups
+              </small>
             </article>
 
             <article className="about__card">
-              <FiUsers className="about__icon"/>
-              <h5>Clients</h5>
-              <small>300+ Clients Worldwide</small>
-            </article>
-
-            <article className="about__card">
-              <VscFolderActive className="about__icon"/>
+              <VscFolderActive className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>
+                Multiple Completed Projects with a vast collection of GitHub
+                repositories
+              </small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur sed inventore odit corporis. Ipsa voluptatibus iure, quam deleniti et fugit distinctio dicta eaque eligendi ad blanditiis corrupti accusantium provident nihil.
+          <p>
+            I'm very ambitious Full Stack developer looking for a role in an IT
+            company with the opportunity to work with the latest technologies on
+            challenging and diverse projects. I'm a man with eccentric thinking
+            and extreme focus. I'm a confident, hardworking and self-motivated
+            person who finds inspiration from the weirdest places. I love
+            challenges and while encountering them I often find my strength
+            through music and anime.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>

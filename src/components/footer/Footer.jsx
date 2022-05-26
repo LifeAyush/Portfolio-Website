@@ -1,8 +1,8 @@
 import React from 'react'
 import "./footer.css"
-import {FaFacebookF} from 'react-icons/fa'
-import {BsInstagram} from 'react-icons/bs'
-import {BsTwitter} from 'react-icons/bs'
+import {BsLinkedin} from "react-icons/bs"
+import {FaGithub} from "react-icons/fa"
+import {SiGooglecloud} from "react-icons/si"
 const Footer = () => {
   return (
     <footer>
@@ -13,13 +13,13 @@ const Footer = () => {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonial">Testimonials</a></li>
+        {/* <li><a href="#testimonial">Testimonials</a></li> */}
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF /></a>
-        <a href="https://instagram.com"><BsInstagram /></a>
-        <a href="https://twitter.com"><BsTwitter /></a>
+      <a href="https://www.linkedin.com/in/thatayush/" target="_blank"><BsLinkedin /></a>
+        <a href="https://github.com/LifeAyush" target="_blank"><FaGithub /></a>
+        <a href="https://www.cloudskillsboost.google/public_profiles/592a105e-216d-4cde-8dff-51811aa2fe1f" target="_blank"><SiGooglecloud /></a>
       </div>
 
       <div className="footer__copyright">
